@@ -39,3 +39,6 @@ table, tr {
     color: darkslateblue;
 }
 
+#announcement-content {
+    text-align: center;
+}
