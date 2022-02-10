@@ -1,0 +1,47 @@
+body {
+    font-family: "Comic Sans MS", "Comic Sans", cursive;
+    display: block;
+    color:black;
+    background-color: whitesmoke;
+}
+
+h1 {
+    text-align: center;
+    font-size: 40px;
+    font-style:italic;
+}
+h3 {
+    text-align: center;
+}
+table, tr {
+    margin: auto;
+    width: 100%;
+   
+    padding: 10px;
+}
+
+.boxed {
+    background-color: white;
+    border: 1px solid darkslateblue;
+}
+.espanol-daily-comic {
+    display:block;
+    margin-left: auto;
+    margin-right: auto;
+    width: 50%;
+}
+.espanol-what_A {
+    text-align: center;
+}
+
+#espanol-welcome-banner {
+    background-color: rgb(179, 162, 255);
+    color: darkslateblue;
+}
+
+.espanol-announcement-content {
+    text-align: center;
+}
+
+.espanol-date {
+    text-align:center
