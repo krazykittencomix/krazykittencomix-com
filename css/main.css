@@ -34,7 +34,7 @@ table, tr {
     text-align: center;
 }
 
-.welcome-banner {
+#welcome-banner {
     background-color: rgb(179, 162, 255);
     color: darkslateblue;
 }
