@@ -46,10 +46,4 @@ table, tr {
 .date {
     text-align:center
 }
-.break {
-    display: block;
-    margin-left: auto;
-    margin-right: auto;
-    width: 50%;
-  }
-}
+
