@@ -47,7 +47,9 @@ table, tr {
     text-align:center
 }
 .break {
-    max-width: 10px;
-    height: 30px;
+    display: block;
+    margin-left: auto;
+    margin-right: auto;
+    width: 50%;
   }
 }
