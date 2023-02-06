@@ -6,3 +6,43 @@
 .comicoftheday {
     text-align: center;
 }
+ul {
+    position: relative;
+    display: inline-block;
+    list-style:none;
+  }
+  
+  li {
+    display: none;
+    position: absolute;
+    background-color: #f9f9f9;
+    min-width: 160px;
+    box-shadow: 0px 8px 16px 0px rgba(0,0,0,0.2);
+    z-index: 1;
+  }
+  
+  ul:hover li {
+    display: block;
+  }
+  
+  li a{
+    text-decoration: none;
+  }
+  
+  li a:hover{
+    text-decoration: none;
+  }
+  
+  li a:visited{
+    text-decoration: none
+  }
+  
+  li a:default{
+    text-decoration-color: black;
+  }
+  h1{
+  text-align: center;}
+  
+  ul {
+  text-align: center;}
+  li {a:visited;}
